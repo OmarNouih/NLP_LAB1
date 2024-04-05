@@ -1,4 +1,4 @@
-# NLP and Web Scraping Lab
+# NLP and Web Scraping Lab by Omar Nouih
 
 This repository contains a demonstration of web scraping techniques, Natural Language Processing (NLP) pipeline, and various NLP tasks such as text cleaning, tokenization, stop words removal, discretization, normalization, stemming, lemmatization, parts-of-speech tagging, and Named Entity Recognition (NER) for Arabic language text.
 
@@ -10,7 +10,6 @@ This repository contains a demonstration of web scraping techniques, Natural Lan
 - [Web Scraping](#web-scraping)
 - [Storing Raw Data](#storing-raw-data)
 - [NLP Pipeline](#nlp-pipeline)
-- [Synthesis](#synthesis)
 
 ## Objective
 
@@ -43,7 +42,3 @@ We stored the raw scraped data in a MongoDB database named "NLP" and a collectio
 ## NLP Pipeline
 
 The NLP pipeline involves several preprocessing steps such as tokenization, stop words removal, normalization, stemming, and lemmatization. We applied these techniques to the scraped Arabic text data to prepare it for analysis. Additionally, we performed parts-of-speech tagging and Named Entity Recognition (NER) using the Farasa library, specifically designed for Arabic language processing.
-
-## Synthesis
-
-Through this project, we gained valuable insights into web scraping, NLP techniques, and MongoDB database management specific to the Arabic language. The comprehensive NLP pipeline demonstrated proficiency in handling Arabic text data and performing various linguistic analysis tasks.
